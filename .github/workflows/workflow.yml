@@ -18,7 +18,16 @@ jobs:
       with:
         fetch-depth: 0
 
+    - name: Install Poetry
+      run: pipx install poetry
+
     - name: Python Semantic Release
       uses: python-semantic-release/python-semantic-release@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+
+    - name: Build Package
+      env:
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        poetry build
