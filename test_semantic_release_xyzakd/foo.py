@@ -4,3 +4,7 @@ def foo() -> bool:
 
 def foo2() -> bool:
     return False
+
+
+def foo3() -> bool:
+    return True
