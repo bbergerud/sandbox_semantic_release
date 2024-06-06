@@ -2,6 +2,23 @@
 
 
 
+## v0.2.0 (2024-06-06)
+
+### Ci
+
+* ci: added testpypi push ([`056da10`](https://github.com/bbergerud/sandbox_semantic_release/commit/056da108a5d82afcf61a2dfc0a28f975cbfde5da))
+
+* ci: added poetry build ([`95b5a89`](https://github.com/bbergerud/sandbox_semantic_release/commit/95b5a8952a320963796a16c2e7ead90bedd98c0d))
+
+### Feature
+
+* feat: added new func ([`7d9154e`](https://github.com/bbergerud/sandbox_semantic_release/commit/7d9154e43cfb9ee91cf9153b524d4310a1bdc73d))
+
+### Unknown
+
+* added foo2 func ([`f91830e`](https://github.com/bbergerud/sandbox_semantic_release/commit/f91830ee81d3800153cab37eece4ab6e5719045d))
+
+
 ## v0.1.0 (2024-06-06)
 
 ### Feature
