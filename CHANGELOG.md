@@ -2,6 +2,27 @@
 
 
 
+## v0.3.0 (2024-06-06)
+
+### Ci
+
+* ci: added poetry info ([`5ed6259`](https://github.com/bbergerud/sandbox_semantic_release/commit/5ed6259c7d8c71d5b048b81bacb7b8f675d8cbc4))
+
+### Documentation
+
+* docs: added readme ([`32a0c28`](https://github.com/bbergerud/sandbox_semantic_release/commit/32a0c2802d10c3ec42f2f420da08e743e5f589b6))
+
+### Feature
+
+* feat: added boo function ([`e3efd38`](https://github.com/bbergerud/sandbox_semantic_release/commit/e3efd38dfd0b2dca0cde1ab246de0a018829c392))
+
+### Unknown
+
+* Merge pull request #2 from bbergerud/feature
+
+feat: added boo function ([`27716c8`](https://github.com/bbergerud/sandbox_semantic_release/commit/27716c80d414bb5c74203eeb4f75d0ae0f2130b0))
+
+
 ## v0.2.0 (2024-06-06)
 
 ### Ci
